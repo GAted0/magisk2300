@@ -1,4 +1,4 @@
-# 自定义更新源
+# Magisk 自定义更新源
 **源地址**  https://gitee.com/mintimate/magick_custom_update_source  
 
 # 使用方法 
