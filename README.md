@@ -8,7 +8,7 @@
 `https://ghproxy.com/https://raw.githubusercontent.com/GAted0/magisk2300/main/magisk23.json`
 
 # 感谢 
-十分感谢 magisk 源项目，自定义更新原项目，与ghproxy服务  
+十分感谢 magisk 源项目，magisk自定义更新原项目，与ghproxy服务  
 https://github.com/topjohnwu/Magisk  
 https://gitee.com/mintimate/magick_custom_update_source  
 https://ghproxy.com/
