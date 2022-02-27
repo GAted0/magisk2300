@@ -1,0 +1,18 @@
+{
+	"magisk": {
+		"version": "23.0",
+		"versionCode": "23000",
+		"link": "https://ghproxy.com/https://raw.githubusercontent.com/GAted0/magisk2300/main/Magisk-v23.0.apk",
+		"note": "https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/updateNote/latest.md"
+	},
+	"stub": {
+		"versionCode": "21",
+		"link": "https://ghproxy.com/https://raw.githubusercontent.com/GAted0/magisk2300/main/stub-release.apk"
+	},
+	"message": {
+		"Power By": "Mintimate",
+		"My Bilibili": "Mintimate",
+		"My Coolapk": "Mintimate",
+		"Blog": "https://www.mintimate.cn"
+	}
+}
